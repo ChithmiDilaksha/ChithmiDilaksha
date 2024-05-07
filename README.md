@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chithmi Dilaksha</h1>
 <h3 align="center">A passionate Software Engineer from SriLanka</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/ChithmiDilaksha/ChithmiDilaksha/assets/148516815/f775209a-faed-4324-bd21-561998ebb688)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/ChithmiDilaksha/ChithmiDilaksha/assets/148516815/7ec424bd-1bdb-49f1-8535-2464c7d7a74f)
+
 ">
-<p align="left"> <img src="![image](https://github.com/ChithmiDilaksha/ChithmiDilaksha/assets/148516815/ab74b6b0-07ea-41cc-befb-3a1ff866c2da)
-" alt="chithmi-dilaksha" /> </p>
+
 
 - 🌱 I’m currently learning **Java**
 
