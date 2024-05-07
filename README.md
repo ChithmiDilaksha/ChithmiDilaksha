@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chithmi Dilaksha</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
-
-<img align="right" alt="coding" width="350" scr="![image](https://github.com/ChithmiDilaksha/ChithmiDilaksha/assets/148516815/6ec0fd7e-df0e-420b-82bb-008dec888eed)
-" >
+<img align="right"alt="coding" width="300" src="![image](https://github.com/ChithmiDilaksha/ChithmiDilaksha/assets/148516815/32fe5c8f-1393-4e4b-97d2-ce16ed3f08fc)
+">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chithmi-dilaksha&label=Profile%20views&color=0e75b6&style=flat" alt="chithmi-dilaksha" /> </p>
