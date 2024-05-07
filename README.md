@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chithmi Dilaksha</h1>
-<h3 align="center">A passionate Software Engineer from SriLanka</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/ChithmiDilaksha/ChithmiDilaksha/assets/148516815/7ec424bd-1bdb-49f1-8535-2464c7d7a74f)
+<h3 align="center">A passionate frontend developer from Srilanka</h3>
 
-">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chithmi-dilaksha&label=Profile%20views&color=0e75b6&style=flat" alt="chithmi-dilaksha" /> </p>
 
-
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **HTML,CSS,PHP**
 
 - 📫 How to reach me **chithmidilaksha2005@gmail.com**
 
