@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chithmi Dilaksha</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 <img align="right"alt="coding" width="300" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 
