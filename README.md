@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/41fde90f-2f97-406c-b815-f996821169b3" style="height: 250px; width: 1000px" alt="Image">
+
 <h1 align="center">Hi 👋, I'm Chithmi Dilaksha</h1>
 <h3 align="center">A passionate Undergraduate Software Engineer from Sri Lanka</h3>
 
