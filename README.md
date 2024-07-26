@@ -24,8 +24,12 @@ I am an undergraduate Software Engineering student at National Institute of Busi
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="65"><b> Connect with me..!</b>
 
 <p align="left">
-<a href="https://linkedin.com/in/chithmi dilaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chithmi dilaksha" height="30" width="40" /></a>
-<a href="https://fb.com/chithmi dilaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chithmi dilaksha" height="30" width="40" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/chithmidilaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chithmidilaksha" height="30" width="40" /></a>
+<a href="https://fb.com/chithmidilaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chithmidilaksha" height="30" width="40" /></a>
+<a href="https://instagram.com/chithmidilaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chithmidilaksha" height="30" width="40" /></a>
+<a href="https://www.behance.net/chithmidilaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="chithmidilaksha" height="30" width="40" /></a>
+</p>
 
 
 
@@ -84,10 +88,13 @@ I am an undergraduate Software Engineering student at National Institute of Busi
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chithmidilaksha&show_icons=true&locale=en&layout=compact" alt="chithmidilaksha" /></p>
 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chithmidilaksha&show_icons=true&locale=en" alt="chithmidilaksha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chithmidilaksha&show_icons=true&locale=en" alt="chithmidilaksha" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chithmidilaksha&" alt="chithmidilaksha" /></p>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chithmidilaksha&label=Profile%20views&color=0e75b6&style=flat" alt="chithmidilaksha" /> </p>
+
 Credits: <a href="https://github.com/ChithmiDilaksha">Chithmi Dilaksha</a>
 
 Date: 20/10/2023
