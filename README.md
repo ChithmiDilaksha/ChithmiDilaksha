@@ -5,7 +5,6 @@
 
 
 
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
